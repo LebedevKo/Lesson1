@@ -1,0 +1,15 @@
+/Users/lebedev/Desktop/для учебы/Lesson1/HomeWork1/Task6/bin/Debug/net6.0/Task6
+/Users/lebedev/Desktop/для учебы/Lesson1/HomeWork1/Task6/bin/Debug/net6.0/Task6.deps.json
+/Users/lebedev/Desktop/для учебы/Lesson1/HomeWork1/Task6/bin/Debug/net6.0/Task6.runtimeconfig.json
+/Users/lebedev/Desktop/для учебы/Lesson1/HomeWork1/Task6/bin/Debug/net6.0/Task6.dll
+/Users/lebedev/Desktop/для учебы/Lesson1/HomeWork1/Task6/bin/Debug/net6.0/Task6.pdb
+/Users/lebedev/Desktop/для учебы/Lesson1/HomeWork1/Task6/obj/Debug/net6.0/Task6.csproj.AssemblyReference.cache
+/Users/lebedev/Desktop/для учебы/Lesson1/HomeWork1/Task6/obj/Debug/net6.0/Task6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lebedev/Desktop/для учебы/Lesson1/HomeWork1/Task6/obj/Debug/net6.0/Task6.AssemblyInfoInputs.cache
+/Users/lebedev/Desktop/для учебы/Lesson1/HomeWork1/Task6/obj/Debug/net6.0/Task6.AssemblyInfo.cs
+/Users/lebedev/Desktop/для учебы/Lesson1/HomeWork1/Task6/obj/Debug/net6.0/Task6.csproj.CoreCompileInputs.cache
+/Users/lebedev/Desktop/для учебы/Lesson1/HomeWork1/Task6/obj/Debug/net6.0/Task6.dll
+/Users/lebedev/Desktop/для учебы/Lesson1/HomeWork1/Task6/obj/Debug/net6.0/refint/Task6.dll
+/Users/lebedev/Desktop/для учебы/Lesson1/HomeWork1/Task6/obj/Debug/net6.0/Task6.pdb
+/Users/lebedev/Desktop/для учебы/Lesson1/HomeWork1/Task6/obj/Debug/net6.0/Task6.genruntimeconfig.cache
+/Users/lebedev/Desktop/для учебы/Lesson1/HomeWork1/Task6/obj/Debug/net6.0/ref/Task6.dll
